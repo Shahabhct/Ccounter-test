@@ -23,7 +23,7 @@ struct ContentView: View {
             } label:{
                 Text("Eat one cookie")
                     .padding()
-                    .background(.blue)
+                    .background(.red)
                     .foregroundColor(.white)
                     .cornerRadius(10)
             }
